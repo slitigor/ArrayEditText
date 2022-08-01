@@ -1,0 +1,3 @@
+# ArrayEditText
+Example used EditText Element in Android 
+Ещё одна попытка обработки событий EditText...
